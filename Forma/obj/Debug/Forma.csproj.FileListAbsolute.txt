@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Munka\Forma\Forma\bin\Debug\Forma.exe.config
+C:\Users\user\Desktop\Munka\Forma\Forma\bin\Debug\Forma.exe
+C:\Users\user\Desktop\Munka\Forma\Forma\bin\Debug\Forma.pdb
+C:\Users\user\Desktop\Munka\Forma\Forma\obj\Debug\Forma.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Munka\Forma\Forma\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Munka\Forma\Forma\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Munka\Forma\Forma\obj\Debug\Forma_MarkupCompile.cache
+C:\Users\user\Desktop\Munka\Forma\Forma\obj\Debug\Forma_MarkupCompile.lref
+C:\Users\user\Desktop\Munka\Forma\Forma\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Munka\Forma\Forma\obj\Debug\Forma.g.resources
+C:\Users\user\Desktop\Munka\Forma\Forma\obj\Debug\Forma.Properties.Resources.resources
+C:\Users\user\Desktop\Munka\Forma\Forma\obj\Debug\Forma.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Munka\Forma\Forma\obj\Debug\Forma.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Munka\Forma\Forma\obj\Debug\Forma.exe
+C:\Users\user\Desktop\Munka\Forma\Forma\obj\Debug\Forma.pdb
